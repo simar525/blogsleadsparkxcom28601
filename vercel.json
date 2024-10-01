@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://articles.leadsparkx.com/$1"
+ }
+  ]
+}
